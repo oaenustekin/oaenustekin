@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Orhan Ali Enuştekin
 
-<!--
-**oaenustekin/oaenustekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba, ben **Orhan Ali Enuştekin**.  
+İstanbul’da yaşayan, **Full-Stack Developer** ve **genç bir girişimciyim**.
 
-Here are some ideas to get you started:
+Henüz 17 yaşındayım ama olayım yaş değil, **vizyon**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Ben Kimim?
+
+- 🎓 Kozmos Yazılım Anadolu Lisesi’nde **Siber Güvenlik** öğrencisiyim  
+- 💻 Full-stack web uygulamaları geliştiriyorum  
+- 🧠 Sadece kod yazmam, **ürün düşünürüm**
+- 🏗️ Fikirleri gerçek, çalışan sistemlere dönüştürmeyi severim
+
+Benim için yazılım:
+> “Bir şeyleri çalıştırmak değil, **bir şeyleri değiştirmek**.”
+
+---
+
+## 🛠️ İlgi Alanlarım & Yetkinliklerim
+
+- Frontend & Backend geliştirme  
+- Modern web teknolojileri (React, Next.js, API yapıları vs.)  
+- Siber güvenlik temelleri  
+- Performans, ölçeklenebilirlik ve temiz mimari  
+- Girişimcilik & ürün geliştirme
+
+---
+
+## 🎯 Bakış Açım
+
+- Küçük hedefler beni kesmez  
+- Uzun vadeli düşünürüm  
+- Global düşünen, lokalden başlayan işler kurmak isterim  
+- “Sadece denedim” değil, **“başardım”** demek isterim
+
+---
+
+## 🌍 Hedef
+
+Türkiye’den çıkıp **global ölçekte ses getiren** projeler üretmek.  
+Teknolojiyi sadece kullanmak değil, **yön veren tarafta olmak**.
+
+---
+
+## 📬 İletişim
+
+Bir fikrin varsa, bir şey konuşmak istiyorsan ya da sadece selam vermek istersen:
+
+📧 **oaenustekin@gmail.com**
+
+---
+
+> _“Yaş bir sayı. Etki bıraktığın işler kim olduğunu anlatır.”_
